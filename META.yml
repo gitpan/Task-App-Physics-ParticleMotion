@@ -1,0 +1,22 @@
+name: Task-App-Physics-ParticleMotion
+version: 1.00
+abstract: All modules required for the tk-motion application
+author: Steffen Mueller
+license: perl
+distribution_type: module
+build_requires:
+  Test::Pod: 1
+  Test::Pod::Coverage: 1
+requires:
+  perl: 5.6.1
+  Math::Symbolic: 0.163
+  Config::Tiny: 0
+  Math::Project3D: 0
+  Math::RungeKutta: 0
+  Tk: 0
+  Tk::Cloth: 0
+  App::Physics::ParticleMotion: 0
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.39
