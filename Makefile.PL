@@ -19,4 +19,4 @@ requires('App::Physics::ParticleMotion');
 
 auto_install();
 #&WriteMakefile;
-&WriteAll;
+&WriteAll(sign=>1);

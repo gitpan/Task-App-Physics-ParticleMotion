@@ -1,5 +1,5 @@
 Changes
-inc/ExtUtils/AutoInstall.pm
+inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
 inc/Module/Install/Base.pm
@@ -18,3 +18,4 @@ README
 t/01use.t
 t/02pod.t
 t/03podcoverage.t
+SIGNATURE                                Public-key signature (added by MakeMaker)

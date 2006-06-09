@@ -1,5 +1,8 @@
 Revision history for Perl extension Task::App::Physics::ParticleMotion.
 
 
+1.01  Fri Jun  9 2006
+	- Upgrade to Module::Install 0.63.
+
 1.00  Sat Dec 10 20:18:20 2005
         - Initial release to CPAN
