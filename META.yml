@@ -4,7 +4,7 @@ build_requires:
   Test::Pod: 1
   Test::Pod::Coverage: 1
 distribution_type: module
-generated_by: Module::Install version 0.63
+generated_by: Module::Install version 0.64
 license: perl
 name: Task-App-Physics-ParticleMotion
 no_index: 
@@ -20,4 +20,4 @@ requires:
   Tk: 0
   Tk::Cloth: 0
   perl: 5.6.1
-version: 1.01
+version: 1.02

@@ -18,5 +18,4 @@ requires('Tk::Cloth');
 requires('App::Physics::ParticleMotion');
 
 auto_install();
-#&WriteMakefile;
-&WriteAll(sign=>1);
+&WriteAll();
